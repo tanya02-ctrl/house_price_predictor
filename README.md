@@ -18,3 +18,5 @@ A machine learning model that predicts house prices based on user inputs like Lo
 ## ▶️ How to Run
 
 1. Clone the repo:
+2. Then run the .ipynb file
+3. For UI  write :- " streamlit run app.py " in your cmd
